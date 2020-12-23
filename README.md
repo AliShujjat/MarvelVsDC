@@ -1,6 +1,6 @@
 # MarvelVsDC
 
-A simple attempt at exploratory data analysis, answering the following questions regarding movies relased by Marvel and DC comics
+A simple attempt at exploratory data analysis, answering the following questions regarding movies released by Marvel and DC comics
 
 1. Total Number of Movies
 2. Top 10 Highest Grossing Movies
