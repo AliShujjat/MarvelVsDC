@@ -14,4 +14,4 @@ Some of my findings can be summarized as follows:
 - Marvel has released a lot more movies in comparison to DC, and therefore also has a higher gross for movies.
 - 9 of the top 10 highest grossing movies are by Marvel, however, according to rankings DC seems to do better.
 
-Observations were made using the dataset from [here.] (https://www.kaggle.com/leonardopena/marvel-vs-dc)
+Observations were made using the dataset from ![here.] (https://www.kaggle.com/leonardopena/marvel-vs-dc)
